@@ -1,0 +1,6 @@
+TUGAS PROYEK TWS (4 Org)
+1. Tugas project diadakan untuk memperoleh nilai dan pengganti UTS dan UAS. Tugas ini dikerjakan secara kelompok dengan 1 kelompok sebanyak 5 mahasiswa atau disesuaikan dengan jumlah mahasiswa dalam satu kelas.
+2. Bentuk tugas projek adalah membuat projek baru Aplikasi Web service dengan Framework CodeIgninter atau mengembangkan projek yang sudah ada.
+3. Aplikasi web service harus ditunjukan ke dosen pengampu matakuliah, sebagai bukti bahwa aplikasi web service memang ada dan jalan.
+4. Setiap kelompok membuat repository proyek public di Github dan disampaikan ke dosen pengampun untuk dipantau. 
+5. Setiap anggota wajib bekerja di repository yang dapat dilihat/dibuktikan dari log repository.
